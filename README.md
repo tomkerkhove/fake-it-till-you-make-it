@@ -1,2 +1,2 @@
-# GitHub Template
-GitHub template for all my future GitHub repos
+# Fake it, till you make it.
+A sandbox to play with .NET, Fake & NuGet 🤹‍♂️
